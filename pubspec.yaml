@@ -1,0 +1,5 @@
+name: gcShiftManager
+description: To build a shift manager utilizing the Google Calendar API and the Dart language.
+dependencies:
+  browser: any
+  google_calendar_v3_api: '>=0.4.13'
